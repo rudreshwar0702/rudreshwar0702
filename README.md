@@ -28,20 +28,71 @@
 
 ---
 
-## ✨ WHY THIS LOOKS BETTER
-✔ Smooth gradient animated banner (not plain blue)  
-✔ Professional “data/AI” description line  
-✔ Codeholic-style typing animation  
-✔ Your GIF centered as visual identity  
-✔ Clean spacing = more premium look  
+## 🚀 PROFILE OVERVIEW
+
+✔ Data Analyst Intern with hands-on experience in real-world datasets  
+✔ Strong focus on turning raw data into actionable business insights  
+✔ Passionate about AI, Machine Learning & Data-Driven Decision Making  
+✔ Building end-to-end analytics and ML projects  
 
 ---
 
-## 🔥 IF YOU WANT EVEN MORE NEXT LEVEL
-I can upgrade this into:
-- 💠 Neon cyberpunk glowing header
-- 📊 Animated “data dashboard style name board”
-- 🤖 AI hologram style GitHub profile intro
-- 🧠 Code terminal live typing banner (like hacker profiles)
+## 🛠️ TECH STACK
 
-Just say: **“make it cyberpunk” or “make it dashboard style”**
+**Languages:** Python, SQL, Java, HTML, CSS  
+**Data Science:** Pandas, NumPy, Scikit-learn, TensorFlow  
+**Visualization:** Power BI, Matplotlib, Seaborn  
+**Databases:** MySQL  
+**Tools:** Git, GitHub, Jupyter Notebook, VS Code, Excel  
+
+---
+
+## 💼 EXPERIENCE
+
+### 📊 Data Analyst Intern — NexLevr
+- Data cleaning, preprocessing & transformation  
+- Created dashboards and business reports  
+- Performed EDA to generate insights for decision-making  
+
+### 🤖 Data Science Intern — SocialMM
+- Built machine learning models for prediction tasks  
+- Feature engineering & data preprocessing  
+- Data visualization and performance analysis  
+
+---
+
+## 🚀 PROJECTS
+
+### 📈 Customer Churn Analysis
+- Identified customer behavior patterns  
+- Built insights to improve retention strategies  
+
+### 📊 Sales Dashboard (Power BI)
+- Interactive dashboard with KPIs and insights  
+- Business performance tracking system  
+
+### 🤖 Social Media Engagement Prediction
+- ML model to predict engagement trends  
+- Feature-based analysis and visualization  
+
+### 🗄️ SQL Analytics Projects
+- Complex SQL queries for business insights  
+- Data extraction and reporting  
+
+---
+
+## 📚 CURRENTLY IMPROVING
+
+🚀 Advanced Machine Learning techniques  
+📊 Deep Learning fundamentals  
+☁️ Data Engineering basics (ETL, pipelines)  
+📈 Advanced Power BI & storytelling dashboards  
+🧠 Real-world project deployment skills  
+
+---
+
+## 🎯 CAREER GOAL
+
+To become a **Data Scientist / AI Engineer** who builds intelligent systems that solve real-world business problems using data, automation, and machine learning.
+
+---
