@@ -1,9 +1,24 @@
 ````md
-<!-- ========================= BANNER ========================= -->
+```html
+<!-- PREMIUM DATAHOLIC BANNER -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f2027,50:203a43,100:2c5364&text=RUDRESHWAR%20E&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Data%20Analytics%20•%20Machine%20Learning%20•%20Power%20BI%20•%20Python&descAlignY=58"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=320&color=gradient&text=RUDRESHWAR%20E&fontSize=75&animation=fadeIn&fontColor=ffffff"/>
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=2000&pause=800&color=00E5FF&center=true&vCenter=true&width=1000&lines=Data+Analyst+Intern;AI+%26+Data+Science+Student;Python+%7C+SQL+%7C+Power+BI;Machine+Learning+Enthusiast;Building+Data+Driven+Solutions" />
+</p>
+
+<p align="center">
+  <img width="700" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJ1d3RjZW42N2VjNTRxYWQ5aWd1bjN1eXgwYzB5dDVudTR0c2gxYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
+</p>
+
+<h3 align="center">
+🚀 Turning Data Into Insights & Ideas Into Reality
+</h3>
+```
+
 
 <!-- ========================= TYPING ANIMATION ========================= -->
 
