@@ -1,7 +1,7 @@
 
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=250&section=header&text=Rudreshwar%20E&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=%3C+Rudreshwar+E+%2F%3E;Data+Analyst+%7C+AI+Engineer;Building+with+Python+%26+Data;Machine+Learning+Enthusiast;Turning+Data+into+Insights+%F0%9F%9A%80" />
 </p>
 
 <!-- Typing Animation -->
