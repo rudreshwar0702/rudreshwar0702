@@ -1,5 +1,4 @@
 ````md
-```html
 <!-- PREMIUM DATAHOLIC BANNER -->
 
 <p align="center">
